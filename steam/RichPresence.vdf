@@ -26,4 +26,17 @@
 			"#StatusLevelBuilder"	"I Banebyggeren"
 		}
 	}
+	"polish"
+	{
+		"tokens"
+		{
+			"#StatusTitleScreen"	"W menu głównym"
+			"#StatusPlayingLevel"	"W poziomie %levelname%"
+			"#StatusEndCard"		"Zakończono poziom %levelname% w %levelcompletetime% minut z oceną %levelcompletegrade%"
+			"#StatusTown"			"W Cornucopia Town"
+			"#StatusWorldMap"		"Podrożuje %worldname%"
+			"#StatusPetMaker"		"W Konstruktor Zwierząt"
+			"#StatusLevelBuilder"	"W Konstruktor Poziomów"
+		}
+	}
 }
